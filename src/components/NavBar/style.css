@@ -1,0 +1,20 @@
+.nav {
+    background-image: url("black&gray.jpeg");
+    /* opacity: 90%;  */
+    z-index: 100;
+}
+
+.nav-link {
+    color: white;
+    font-weight: bold;
+}
+
+a:hover {
+    color: yellow;
+    font-size: 18.75px;
+}
+
+a {
+    transition-delay: 0.3s;
+    transition-duration: 0.5s;
+}
