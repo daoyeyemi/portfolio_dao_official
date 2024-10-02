@@ -23,7 +23,7 @@ function ProjectCollect() {
                             <p className="card-text">An advanced artificial intelligence-based application able to identify and analyze human emotions in real-time using video footage. 
                                 Utilizes machine learning and computer vision with the help of Tensorflow for training of convolutional neural network model. Stores emotion history and 
                                 allows users to track trends over time. Performs regression analysis based on user history data to predict emotions of users at certain times.
-                                Made possible through use of Python programming language and PyQt5 framework. Download project using project below and follow 'ers_manual_folder.doc' in downloaded folder.
+                                Made possible through use of Python programming language and PyQt5 framework. Download project using project below and follow <i>ers_installation_manual.docx</i> in <strong>ers_pyqt</strong> folder.
                                 For macOS users only.
                             </p>
                             <p className="card-text"><small className="text-muted">September 26, 2024 </small></p>
