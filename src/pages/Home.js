@@ -1,8 +1,8 @@
-import React from "react";
+import "./styles.css";
+
 import Main from "../components/Main";
 import NavBar from "../components/NavBar";
-import Body from "../components/Body";
-import "./styles.css";
+import React from "react";
 import { motion } from "framer-motion";
 
 function Home() {

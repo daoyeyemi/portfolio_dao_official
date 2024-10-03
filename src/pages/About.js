@@ -1,8 +1,8 @@
-import React from "react";
-import NavBar from "../components/NavBar";
-import Body from "../components/Body";
-import AboutMe from "../components/AboutMe";
 import "./styles.css";
+
+import AboutMe from "../components/AboutMe";
+import NavBar from "../components/NavBar";
+import React from "react";
 import { motion } from "framer-motion";
 
 function About() {
