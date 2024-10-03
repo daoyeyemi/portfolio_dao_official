@@ -1,13 +1,14 @@
-import React from 'react';
 import './App.css';
-import {BrowserRouter as Router, Switch, Route} from "react-router-dom";
-import Home from "./pages/Home";
+
+import { AnimatePresence, motion } from "framer-motion";
+import {Route, BrowserRouter as Router, Switch} from "react-router-dom";
+
 import About from "./pages/About";
 import Contact from "./pages/Contact";
-import Project from "./pages/Project";
-import Navbar from "./components/NavBar";
+import Home from "./pages/Home";
 import Particles from "react-particles-js";
-import { AnimatePresence, motion } from "framer-motion";
+import Project from "./pages/Project";
+import React from 'react';
 
 function App() {
   return (

@@ -1,8 +1,8 @@
-import React from "react";
-import NavBar from "../components/NavBar";
-import Body from "../components/Body";
-import ProjectCollect from "../components/ProjectCollect";
 import "./styles.css";
+
+import NavBar from "../components/NavBar";
+import ProjectCollect from "../components/ProjectCollect";
+import React from "react";
 import { motion } from "framer-motion";
 
 function Project() {

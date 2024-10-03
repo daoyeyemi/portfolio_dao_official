@@ -1,9 +1,8 @@
-import React from "react";
-import NavBar from "../components/NavBar";
-import Body from "../components/Body";
-// import ContactForm from "../components/ContactForm";
-import Form from "../components/ContactForm/Form";
 import "./styles.css";
+
+import Form from "../components/ContactForm/Form";
+import NavBar from "../components/NavBar";
+import React from "react";
 import { motion } from "framer-motion";
 
 function Contact() {
