@@ -1,6 +1,6 @@
 {
   "homepage": "http://daoyeyemi.github.io/portfolio_dao_official",
-  "name": "dao",
+  "name": "portfolio_dao_official",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
